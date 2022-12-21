@@ -36,7 +36,7 @@
 * Once the User finish it will show to the user the Score in each Question
 
 ## 📈 Diagram 
-* The general Flow chart Diagram for the Overall project
+* The General Flow chart Diagram for the Overall project
 ![img.png](Image/FlowChart.png)
 
 ## 📸 Screenshot 
