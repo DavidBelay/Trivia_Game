@@ -7,7 +7,7 @@
 
 
 
-## **⚡ This Project is Trivia Question Game bullied in python and connected to Database **
+## **⚡ Trivia Question Game bullied in python and connected to Database **
 
 
 # Overview
