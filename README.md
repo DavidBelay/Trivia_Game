@@ -3,7 +3,7 @@
 ## 👨‍💻Author 
 - VERSION: 1.0.0
 - Dawit Samson Belay
-- [Link To GitHub/Dawit Samson](https://github.com/DawitSamson)
+- [Link To GitHub/Dawit Belay](https://github.com/DavidBelay)
 
 
 ## **⚡ This Project is Trivia Question Game bullied in python and connected to Database **
