@@ -68,7 +68,6 @@
 >- Mysql DataBase
 >- Mysql.Connector-Python
 
-
 # 💻 Source
 - Pycharm software
 - GitHub 
