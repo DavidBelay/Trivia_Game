@@ -6,6 +6,7 @@
 - [Link To GitHub/Dawit Belay](https://github.com/DavidBelay)
 
 
+
 ## **⚡ This Project is Trivia Question Game bullied in python and connected to Database **
 
 
@@ -23,8 +24,22 @@
 >* queries = is a question or a request for information expressed in a formal manner. 
 >* DML = Data Manipulation Language refers to DELETE, INSERT, REPLACE, SELECT, and UPDATE
 >* MYDB = it refers to the database connection which I used
+>* tkinter = it is Python's de-facto standard GUI (Graphical User Interface) package.
 
-## **🖨️ How does This Trivia Question Game Works **
+## 🚧 About The project
+>* This project is Build in Python using OOP and have Multiple class.
+>* The datas are generated from the Database and displayed in Python program
+>* The main python file is the Motor or the Execute/Run the Program file.
+>* To make the Coloring and decoration purpose I made a python file called "DesignColors". This file we will use it where ever we went a color. 
+>* I also create "SMS python file" to make all the text which will be displayed/printed so that the code will be net.
+>* When we came to the Database I created a python file which has the connection of the Python to Mysql DataBase.
+>* The DB python file Consist of "DELETE, INSERT, REPLACE, SELECT, and UPDATE" all this will be Done using Python programming and connected to DB.
+>* This Project also Consists of GUI(Graphical User Interface) using tkinter Package which is only Display the homepage which will Check Whether the User Is admin from the DataBase and start the Python Program. 
+>* The GUI is not the finally "On progress" it will be updated 
+>>* when the program start it will ask the User admin to enter the Adminer Name which is found on the DB, and it will check the admin Name and continue Working the code using Console.
+>* This project consist of 6 Class (5=Found in DB Python file and 1 class= DesignColors)
+
+### **🖨️ How does This Trivia Question Game Works **
 * First this question will have Admin User and Normal User.
 * The admin users can access all the Database and the Users. 
 * The admin can Create,Insert,Delete and Upgrade Users,players,Questions generality Admin will control this App.
@@ -65,6 +80,7 @@
 >- Python Package (emoji, colorama)
 >- PyCharm
 >- pyfiglet
+>- Tkinter
 >- Mysql DataBase
 >- Mysql.Connector-Python
 
