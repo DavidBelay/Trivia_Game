@@ -1,5 +1,5 @@
-from APP import MainFunction
+from GUI import Gui
 
 
 if __name__ == '__main__':
-    MainFunction()
+    Gui()

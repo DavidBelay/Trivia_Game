@@ -1,12 +1,10 @@
 from AdminDBDisplay import *
 from DBDisplay import *
 from SMS import *
-# from GUI import *
 
 
 def MainFunction():
     while True:
-        # Gui()
         HomePage_WelcomeText()
         try:
             n = int(input('Enter Your Choice: '))
@@ -27,4 +25,3 @@ def MainFunction():
             print(e)
             Invalid_DetailsText()
 
-# MainFunction()
