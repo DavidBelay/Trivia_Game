@@ -75,6 +75,6 @@
 - Google
 - Mysql DataBase 
 - Mysql Workbench
-- w3schools
+- W3schools
 
 ### 🙌☺️️☺️🙌  Thank you!!!    🙌☺️️☺️🙌
