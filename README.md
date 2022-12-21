@@ -22,6 +22,7 @@
 >* Execute = to execute Python MySQL queries on your MySQL database. 
 >* queries = is a question or a request for information expressed in a formal manner. 
 >* DML = Data Manipulation Language refers to DELETE, INSERT, REPLACE, SELECT, and UPDATE
+>* MYDB = it refers to the database connection which I used
 
 ## **🖨️ How does This Trivia Question Game Works **
 * First this question will have Admin User and Normal User.
@@ -39,15 +40,14 @@
 ![img.png](Image/FlowChart.png)
 
 ## 📸 Screenshot 
-![img.png](Image/img1.PNG)
-![img.png](Image/img2.PNG)
-![img.png](Image/img3.PNG)
-![img.png](Image/img4.PNG)
-![img.png](Image/img5.PNG)
-![img.png](Image/img6.PNG)
-![img.png](Image/img7.PNG)
-![img.png](Image/img8.PNG)
-![img.png](Image/img9.PNG)
+![img.png](Image/pic1.PNG)
+![img.png](Image/pic2.PNG)
+![img.png](Image/pic3.PNG)
+![img.png](Image/pic4.PNG)
+![img.png](Image/pic5.PNG)
+![img.png](Image/pic6.PNG)
+![img.png](Image/pic7.PNG)
+![img.png](Image/MysqlDatabase.PNG)
 
 ## ⚙ Usage
 * Open Pycharm
