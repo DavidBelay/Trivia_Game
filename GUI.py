@@ -49,7 +49,7 @@ def Gui():
                 print(ColorLab.BOLD + ColorLab.RED + '\t\t\t\t\t\t\t Invalid user!' + ColorLab.END)
                 exit()
 
-    # Creating Button to CheckAdmin Details and Save data using click button
+    # Creating Button to CheckAdmin Details and Save data using click button.
     ButtonCheckAdmin = ttk.Button(root, text="   Signin\n As Admin", command=CheckAdmin)
     ButtonCheckAdmin.place(x=180, y=210, width=100, height=50)
 

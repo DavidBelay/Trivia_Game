@@ -6,7 +6,7 @@ def CreateDB():
     mydb = mysql.connector.connect(host='localhost', user='root', password='dawitsamson123')
     cursorD = mydb.cursor()
     DataBase_Name = input("Enter DataBase Name: ")
-    cursorD.execute("CREATE DATABASE '{}'".format(DataBase_Name))  # This is for creating Database
+    cursorD.execute("CREATE DATABASE '{}'".format(DataBase_Name))  # This is for creating Database.
     mydb.commit()
     print(ColorLab.BOLD + ColorLab.GREEN + 'DATABASE Created.' + ColorLab.END)
 

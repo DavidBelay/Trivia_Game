@@ -4,7 +4,7 @@ from DB_DML import *
 
 
 def AdminDetailMainDB():
-    AdminDB = DBAdmin()  # DATABASE ADMIN
+    AdminDB = DBAdmin()  # DATABASE ADMIN.
     while True:
         AdminSection_WelcomeText()
         try:

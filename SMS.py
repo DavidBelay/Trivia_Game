@@ -2,7 +2,7 @@ from DesignColors import ColorLab
 import pyfiglet as pyg
 
 
-# This is a library for all SMS/ Text Displayed Found on this Project.
+# This is a library for all SMS/ Text Displayed Found on this Project
 
 
 def HomePage_WelcomeText():
